@@ -186,7 +186,7 @@ hr {
   padding: 0.5rem 1.5rem;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
 }
-.cv {
+.Botonee {
   background-color: #00532c;
   color: #aaf3ae;
   border-radius: 100px;
@@ -214,7 +214,7 @@ hr {
   overflow: hidden;
  
 }
-@keyframes .cv {
+@keyframes .Botonee {
   0% {
     transform: translateX(-100%) rotate(45deg);
 }
@@ -223,7 +223,7 @@ hr {
 }
 }
 
-.cv:hover {
+.Botonee:hover {
   transform: scale(1.1);
   box-shadow: 0 0 20px rgba(0, 172, 120, 0.8);
 }
@@ -234,11 +234,11 @@ hr {
 }
 
 
-.cv:active {
+.Botonee:active {
       transform: scale(1.5)
 }
 
-.cv li :hover {
+.Botonee li :hover {
   transform: rotate(-10deg) scale(1.5);
 }
 
